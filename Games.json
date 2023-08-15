@@ -12,10 +12,10 @@
       {
         "GameName": "Test",
         "GameDirec" : "test1:",
-        "GameSize": "2 MB",
-        "GameDownloadCloudURL": "usb.rar",
+        "GameSize": "4 GB",
+        "GameDownloadCloudURL": "rbeyond.rar",
         "GameDownloadURL": "",
-        "GameExe": "usb.rar"
+        "GameExe": "rbeyond.rar"
 
       }
      
