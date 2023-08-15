@@ -8,6 +8,15 @@
         "GameDownloadURL": "",
         "GameExe": "CF_Game_Center.exe"
 
+      },
+      {
+        "GameName": "Test",
+        "GameDirec" : "test1:",
+        "GameSize": "2 MB",
+        "GameDownloadCloudURL": "usb.rar",
+        "GameDownloadURL": "",
+        "GameExe": "usb.rar"
+
       }
      
 
