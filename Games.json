@@ -1,0 +1,16 @@
+{
+    "Games" : [
+       {
+        "GameName": "CF Game Ceneter",
+        "GameDirec" : "zortosgdrive:",
+        "GameSize": "2 MB",
+        "GameDownloadCloudURL": "RDR2gfn",
+        "GameDownloadURL": "",
+        "GameExe": "CF_Game_Center.exe"
+
+      }
+     
+
+
+    ]
+}
