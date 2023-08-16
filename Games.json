@@ -10,12 +10,12 @@
 
       },
       {
-        "GameName": "Test",
-        "GameDirec" : "test1:",
-        "GameSize": "4 GB",
-        "GameDownloadCloudURL": "rbeyond.rar",
+        "GameName": "Assetto",
+        "GameDirec" : "wuby:",
+        "GameSize": "17 GB",
+        "GameDownloadCloudURL": "Assetto Corsa.zip",
         "GameDownloadURL": "",
-        "GameExe": "rbeyond.rar"
+        "GameExe": "Assetto Corsa.zip"
 
       }
      
