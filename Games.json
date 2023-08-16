@@ -17,6 +17,15 @@
         "GameDownloadURL": "",
         "GameExe": "Assetto Corsa.zip"
 
+      },
+      {
+        "GameName": "SD",
+        "GameDirec" : "luffy2:",
+        "GameSize": "9 GB",
+        "GameDownloadCloudURL": "SD",
+        "GameDownloadURL": "",
+        "GameExe": "SD.zip"
+
       }
      
 
